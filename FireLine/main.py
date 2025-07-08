@@ -1,0 +1,1 @@
+print('Hello, This will soon be an exciting new way to schedule employees!')
